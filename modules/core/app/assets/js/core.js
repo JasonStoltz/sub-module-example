@@ -1,4 +1,4 @@
-define(['common'], function(common) {
+define(['common', 'jquery'], function(common, $) {
 
   common.loaded();
 
